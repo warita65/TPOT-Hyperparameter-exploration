@@ -1,0 +1,46 @@
+,,,,TPOT with KNN hyper parameters Correlation table ,,
+DATASET,# of instances,KNN config for n_neighbors ,score,n_neighbors,p,weight
+Banana,5300,default ,0.897358,30,2,uniform
+Banana,5300,"range(1,n_observations/2),",0.897358,30,2,uniform
+,,,,,,
+Contraceptive,1473,default ,0.615176,23,2,uniform
+Contraceptive,1473,"range(1,n_observations/2),",0.598915,21,2,uniform
+,,,,,,
+Agaricus-lepiota,8145,default,1,22,1,distance
+Agaricus-lepiota,8145,"range(1,n_observations/2),",1,12,1,distance
+,,,,,,
+Appendicitis,106,default,0.814814,15,1,uniform
+Appendicitis,106,"range(1,n_observations/2),",0.814814,15,1,distance
+,,,,,,
+Corral,160,default,1,17,2,distance
+Corral,160,"range(1,n_observations/2),",0.975,6,2,distance
+,,,,,,
+Hepatitis,155,default,0.743589,52,1,uniform
+Hepatitis,155,"range(1,n_observations/2),",0.743589,52,1,uniform
+,,,,,,
+Segmentation,2310,default,0.967128,1,1,distance
+Segmentation,2310,"range(1,n_observations/2),",0.967128,1,1,distance
+,,,,,,
+Solar-flare,1066,default,0.689138,20,1,uniform
+Solar-flare,1066,"range(1,n_observations/2),",0.689138,20,1,uniform
+,,,,,,
+yeast,1479,default,0.597297,26,1,distance
+yeast,1479,"range(1,n_observations/2),",0.597297,26,1,distance
+,,,,,,
+wine-quality,4893,default,0.60866,42,1,distance
+wine-quality,4893,"range(1,n_observations/2),",0.615196,169,1,distance
+,,,,,,
+waveform,5000,default,0.8712,71,1,uniform
+waveform,5000,"range(1,n_observations/2),",0.8656,180,2,distance
+,,,,,,
+twonorm,7400,default,0.97891,66,2,uniform
+twonorm,7400,"range(1,n_observations/2),",0.98,1499,2,distance
+,,,,,,
+titanic,2201,default,0.74047,22,1,distance
+titanic,2201,"range(1,n_observations/2),",0.74047,17,2,distance
+,,,,,,
+Gametes_epistasis_2,1600,default,0.4775,9,1,uniform
+Gametes_epistasis_2,1600,"range(1,n_observations/2),",0.4875,264,2,uniform
+,,,,,,
+Gametes_Heterogeneity,1600,default,0.58,80,1,distance
+Gametes_Heterogeneity,1600,"range(1,n_observations/2),",0.5925,46,1,distance
