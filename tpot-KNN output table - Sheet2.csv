@@ -1,0 +1,16 @@
+Dataset name,# instances,# features,score1,n_neighbors ran#1,p ,weight,,score2,n_neighbors ran#2,p2,weights2,,scorer3,n_neighbors ran#3,p3,weights3,,score4,n_neighbors ran#4,p4,weights4
+Banana,5300,2,0.897358,30,2,uniform,,0.89735,30,2,uniform,,0.89735,30,2,uniform,,0.89735,30,2,uniform
+titanic,2201,3,0.74047,22,1,distance,,0.74047,22,1,distance,,0.74047,22,1,distance,,0.74047,22,1,distance
+Corral,160,6,1,17,2,distance,,1,17,2,distance,,1,17,2,distance,,1,17,2,distance
+Appendicitis,106,7,0.814814,15,1,uniform,,0.81481,15,1,uniform,,0.81481,15,1,uniform,,0.81481,15,1,uniform
+yeast,1479,8,0.597297,26,1,distance,,0.59729,26,1,distance,,0.59729,26,1,distance,,0.59729,26,1,distance
+Contraceptive,1473,9,0.615176,32,2,uniform,,0.55826,32,1,uniform,,0.55826,32,1,uniform,,0.55826,32,1,uniform
+wine-quality,4893,11,0.60866,42,1,distance,,0.60866,42,1,distance,,0.60866,42,1,distance,,0.60866,42,1,distance
+Solar-flare,1066,12,0.689138,20,1,uniform,,0.68913,20,1,uniform,,0.68913,20,1,uniform,,0.68913,20,1,uniform
+Hepatitis,155,19,0.743589,52,1,uniform,,0.74358,52,1,uniform,,0.74358,52,1,uniform,,0.74358,52,1,uniform
+Segmentation,2310,19,0.967128,1,1,distance,,0.96712,1,1,distance,,0.96712,1,1,distance,,0.96712,1,1,distance
+Gametes_Heterogeneity,1600,20,0.58,80,1,distance,,0.58,80,1,distance,,0.58,80,1,distance,,0.58,80,1,distance
+twonorm,7400,20,0.97891,66,2,uniform,,0.97891,66,2,uniform,,0.97891,66,2,uniform,,0.97891,66,2,uniform
+Agaricus-lepiota,8145,22,1,22,1,distance,,1,22,1,distance,,1,22,1,distance,,1,22,1,distance
+waveform,5000,40,0.8712,71,1,uniform,,0.8712,71,1,uniform,,0.8712,71,1,uniform,,0.8712,71,1,uniform
+Gametes_epistasis_2,1600,1000,0.4775,9,1,uniform,,0.4775,9,1,uniform,,0.4775,9,1,uniform,,0.4775,9,1,uniform
